@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "title": "Search Partial",
+    "description": "Add search anywhere you wish with a partial",
+    "fields": [
+      {
+        "field": "params.results_count",
+        "label": "Results to show",
+        "placeholder": "How many results would you like to show?"
+      }
+    ]
+}
+  
+  
