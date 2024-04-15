@@ -1,6 +1,6 @@
 # Micro.blog Search Partial
 
-![](https://github.com/gr36/search-partialraw/main/docs/search-bar.png)
+![](https://github.com/gr36/search-partial/raw/main/docs/search-bar.png)
 
 This pligin for micro.blog will allow you to add a search bar to any page you wish. 
 
@@ -16,13 +16,13 @@ Add the patialal to the page you wish this to show on, for example, I have place
 
 To do this add `{{ partial "search.html" . }}` to your page.
 
-![](https://github.com/gr36/search-partialraw/main/docs/search-results.png)
+![](https://github.com/gr36/search-partial/raw/main/docs/search-results.png)
 
 ### Customise Search
 
 You can custmies the number of results shown on your page by heading into plugin options and changing the default from 5.
 
-![](https://github.com/gr36/search-partialraw/main/docs/search-options.png)
+![](https://github.com/gr36/search-partial/raw/main/docs/search-options.png)
 
 
 ## Styling
