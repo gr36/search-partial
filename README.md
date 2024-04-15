@@ -2,7 +2,7 @@
 
 ![](https://github.com/gr36/search-partial/raw/main/docs/search-bar.png)
 
-This pligin for micro.blog will allow you to add a search bar to any page you wish. 
+This plugin for micro.blog will allow you to add a search bar to any page you wish. 
 
 ## Set Up
 
