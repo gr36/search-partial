@@ -54,3 +54,9 @@ The styling of the search bar will be depend on your theme, I have added in some
 
 ## Credits
 The basis of this plugin came from Manton [search page plugin](https://github.com/microdotblog/plugin-search-page). 
+
+## Support Me
+If you found this plugin useful, please consider [buying me a coffee](https://www.buymeacoffee.com/gregmorris)
+
+Check out my other plugins for micro.blog
+- [Reply Count](https://github.com/gr36/reply-count)
