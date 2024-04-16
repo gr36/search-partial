@@ -60,3 +60,4 @@ If you found this plugin useful, please consider [buying me a coffee](https://ww
 
 Check out my other plugins for micro.blog
 - [Reply Count](https://github.com/gr36/reply-count)
+- [Status log](https://github.com/gr36/status-log)
