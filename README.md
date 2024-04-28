@@ -9,6 +9,8 @@ Instal the plugin from Github by clicking design, edit theme, and then add new p
 
 Call the plugin anything you wish, copy in the URL from the Github page, and click Add Plugin.
 
+You then have two options:
+
 ### Add Partial
 Add the partial to the page you wish this to show on, for example, I have placed this on my home page but you could do this wherever you like.
 
@@ -17,6 +19,10 @@ Simply add `{{ partial "search.html" . }}` to your page and the search bar will 
 When searching, an HTML element will appear and show the results, linking to pages that contain the searched for words.
 
 ![](https://github.com/gr36/search-partial/raw/main/docs/search-results.png)
+
+### Add Shortcode
+
+Add the shortcode `{{< search >}}` to your micro.blog pages anywhere you wish. This will fill the conatiner to 100% so consider adding some styling if you dont want this. 
 
 ### Customise Search
 
@@ -51,6 +57,11 @@ The styling of the search bar will be depend on your theme, I have added in some
 `.field` is the search box itself.
 
 `#list_results` is the results box that only shows when search results are found.
+
+## Change Log
+
+1.0 Initial Release
+1.1 Add option to use shortcode instead to make it easier to add to micro.blog pages.
 
 ## Credits
 The basis of this plugin came from Manton [search page plugin](https://github.com/microdotblog/plugin-search-page). 
